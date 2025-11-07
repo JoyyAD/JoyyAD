@@ -8,7 +8,8 @@
    <p>╔═════════════════════════════════════════════</p>
       
    - ➺ Atualmente estou em uma jornada para construir grandes coisas
-   - ➺ Recém-formado em analise e desenvolvimento de sistemas
+   - ➺ Formada analise e desenvolvimento de sistemas
+   - ➺ Perfil com projetos acadêmicos 
  
    <p> ═════════════════════════════════════════════╝</p>  
 
